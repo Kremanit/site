@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://paxhistoria.co
+Sitemap: https://paxhistoria.co/sitemap.xml
